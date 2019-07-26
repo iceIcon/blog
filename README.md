@@ -22,3 +22,5 @@
 
 ### Android相关
 - 01 [Java基本学习](https://github.com/ljinmei/diary-summary/blob/master/Android/java基本学习.md)
+
+- 02 [安卓布局相关](https://github.com/ljinmei/diary-summary/blob/master/Android/安卓布局相关.md)
