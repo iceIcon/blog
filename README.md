@@ -24,3 +24,8 @@
 - 01 [Java基本学习](https://github.com/ljinmei/diary-summary/blob/master/Android/java基本学习.md)
 
 - 02 [安卓布局相关](https://github.com/ljinmei/diary-summary/blob/master/Android/安卓布局相关.md)
+
+- 03 [安卓打包相关](https://github.com/ljinmei/diary-summary/blob/master/Android/安卓打包相关.md)
+
+### 跨端解决方案相关
+- 01 [Flutter,RN,原生安卓分析1](https://github.com/ljinmei/diary-summary/blob/master/Multi_Platform/跨端整体分析1.md)
