@@ -29,3 +29,12 @@
 
 ### 跨端解决方案相关
 - 01 [Flutter,RN,原生安卓分析1](https://github.com/ljinmei/diary-summary/blob/master/Multi_Platform/跨端整体分析1.md)
+
+### web相关
+- 01 [eslint和TypeScript](https://github.com/ljinmei/diary-summary/blob/master/web/eslint.md)
+- 02 [ 数组扩展的处理方法相关](https://github.com/ljinmei/diary-summary/blob/master/web/数组扩展方法.md)
+
+### node相关
+### pit相关
+- 01 [permission_denied](https://github.com/ljinmei/diary-summary/blob/master/pit/permission_denied.md)
+### system相关
