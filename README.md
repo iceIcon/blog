@@ -33,6 +33,7 @@
 ### web相关
 - 01 [eslint和TypeScript](https://github.com/ljinmei/diary-summary/blob/master/web/eslint.md)
 - 02 [ 数组扩展的处理方法相关](https://github.com/ljinmei/diary-summary/blob/master/web/数组扩展方法.md)
+- 03 [ vue扩展 ](https://github.com/ljinmei/diary-summary/blob/master/web/vue扩展.md)
 
 ### node相关
 ### pit相关
